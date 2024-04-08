@@ -1,0 +1,7 @@
+dependencies {
+    // Firebase Firestore
+    implementation 'com.google.firebase:firebase-firestore-ktx:23.0.3'
+
+    // Firebase Cloud Messaging
+    implementation 'com.google.firebase:firebase-messaging:23.0.0'
+}
